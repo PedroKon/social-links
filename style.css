@@ -17,6 +17,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background: url("https://img.freepik.com/fotos-gratis/uma-pintura-de-um-lago-de-montanha-com-uma-montanha-ao-fundo_188544-9126.jpg?w=900&t=st=1709342077~exp=1709342677~hmac=5a878b86a813e55a624dcbfcc3cbcfdcd485fab8b51a87b275e9f94b2b987b09");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    backdrop-filter: blur(10px);
 }
 
 main {
